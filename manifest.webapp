@@ -5,9 +5,9 @@
 	"launch_path": "/Firefix-OS-KFC-MY-locator/index.html",
 	"icons": {
 		"16": "/img/icons/kfc-16.png",
-		"48": "/img/icons/kfc-32.png",
+		"32": "/img/icons/kfc-32.png",
 		"48": "/img/icons/kfc-48.png",
-		"48": "/img/icons/kfc-64.png",
+		"64": "/img/icons/kfc-64.png",
 		"128": "/img/icons/kfc-128.png"
 	},
 	"developer": {

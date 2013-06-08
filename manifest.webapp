@@ -3,23 +3,25 @@
 	"name": "KFC Malaysia - Locator",
 	"description": "Locate the nearest KFC around you.",
 	"launch_path": "/Firefix-OS-KFC-MY-locator/index.html",
-	"appcache_path": "/offline.appcache",
 	"icons": {
-		"16": "/img/icons/mortar-16.png",
-		"48": "/img/icons/mortar-48.png",
-		"128": "/img/icons/mortar-128.png"
+		"16": "/img/icons/kfc-16.png",
+		"48": "/img/icons/kfc-32.png",
+		"48": "/img/icons/kfc-48.png",
+		"48": "/img/icons/kfc-64.png",
+		"128": "/img/icons/kfc-128.png"
 	},
 	"developer": {
 		"name": "Amirol Ahmad",
 		"url": "http://www.osemnetwork.com.my"
 	},
 	"installs_allowed_from": ["*"],
-	"locales": {
-		"my": {
-			"description": "KFC Malaysia - Locator",
-			"developer": {
-				"url": "http://www.osemnetwork.com.my"
-			}
-		}
-	}
+    "default_locale": "en",
+	"permissions": {
+        "desktop-notification": {
+            "description" : "To show notifications"
+        },
+        "geolocation": {
+            "description" : "Marking out user location"
+        }
+    }
 }

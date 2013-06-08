@@ -1,16 +1,25 @@
 CACHE MANIFEST
-# v0.1
+# v1.0
 /index.html
-/css/app.css
-/css/install-button.css
-/img/offline.png
-/img/online.png
-/img/glyphicons-halflings-white.png
-/img/glyphicons-halflings.png
-/img/gradient.png
-/js/app.js
-/js/init.js
-/js/install-button.js
-/js/lib/install.js
-/js/lib/require.js
-/js/lib/zepto.js
+/perlis.html
+/css/layout.css
+/css/map.css
+/css/stylesheet.css
+/css/menu/main.css
+/img/01-about-kfc.png
+/img/01-kfc-malaysia2.png
+/img/logo.png
+/img/01-kfc-malaysia2.png
+/img/icons/check.png
+/img/icons/cross.png
+/img/icons/logo-24.png
+/img/icons/logo-astro.png
+/img/icons/logo-drivethru.png
+/img/icons/logo-extended.png
+/img/icons/logo-krushers.png
+/img/icons/logo-party.png
+/img/icons/logo-wifi.png
+/js/contact.js
+/js/map.js
+/js/menu/app.js
+/js/menu/jquery-1.6.4.min.js

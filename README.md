@@ -5,6 +5,8 @@ Creating Firefox OS Apps - Locate the nearest KFC around user
 
 This is a sample app for Firefox OS, loosely based on Web apps, meant to act as a simple html for getting started with apps for Firefox OS.
 
+It will get the data manually from [KFC Malaysia website](http://kfc.com.my/jom-perlis.php).
+
 To add your own icon, I recommend using the [Firefox OS app icons style guide](http://www.mozilla.org/en-US/styleguide/products/firefoxos/icons/).
 
 

@@ -1,8 +1,8 @@
 {
-	"version": "0.1",
+	"version": "1.0",
 	"name": "KFC Malaysia - Locator",
 	"description": "Locate the nearest KFC around you.",
-	"launch_path": "/index.html",
+	"launch_path": "/Firefix-OS-KFC-MY-locator/index.html",
 	"appcache_path": "/offline.appcache",
 	"icons": {
 		"16": "/img/icons/mortar-16.png",

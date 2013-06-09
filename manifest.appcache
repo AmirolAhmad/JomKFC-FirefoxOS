@@ -1,7 +1,21 @@
 CACHE MANIFEST
 # v1.0
-/index.html
-/perlis.html
+/index.php
+/perlis.php
+/kedah.php
+/penang.php
+/perak.php
+/kelantan.php
+/terengganu.php
+/pahang.php
+/selangor.php
+/klumpur.php
+/putrajaya.php
+/nsembilan.php
+/melaka.php
+/johor.php
+/sabah.php
+/sarawak.php
 /css/layout.css
 /css/map.css
 /css/stylesheet.css

@@ -2,37 +2,37 @@
 <div id="menu">
 	<ul>
 		<li>
-			<a href="perlis.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Perlis</a>
+			<a href="perlis.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Perlis</a>
 		</li>
 		<li class="active">
-			<a href="kedah.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kedah</a>
+			<a href="kedah.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kedah</a>
 		</li>
 		<li>
-			<a href="penang.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Penang</a>
+			<a href="penang.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Penang</a>
 		</li>
 		<li>
-			<a href="perak.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Perak</a>
+			<a href="perak.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Perak</a>
 		</li>
 		<li>
-			<a href="klumpur.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kuala Lumpur</a>
+			<a href="klumpur.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kuala Lumpur</a>
 		</li>
 		<li>
-			<a href="selangor.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Selangor</a>
+			<a href="selangor.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Selangor</a>
 		</li>
 		<li>
-			<a href="putrajaya.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>WP Putrajaya</a>
+			<a href="putrajaya.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>WP Putrajaya</a>
 		</li>
 		<li>
-			<a href="nsembilan.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>N. Sembilan</a>
+			<a href="nsembilan.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>N. Sembilan</a>
 		</li>
 		<li>
-			<a href="melaka.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Melaka</a>
+			<a href="melaka.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Melaka</a>
 		</li>
 		<li>
-			<a href="kelantan.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kelantan</a>
+			<a href="kelantan.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kelantan</a>
 		</li>
         <li>
-        	<a href="terengganu.html" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Terengganu</a>
+        	<a href="terengganu.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Terengganu</a>
         </li>
 		<li>
 			<a href="pahang.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Pahang</a>

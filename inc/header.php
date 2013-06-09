@@ -34,7 +34,7 @@ https://github.com/AmirolAhmad/Firefix-OS-KFC-MY-locator/blob/gh-pages/.htaccess
 	<!-- Social Network Icons Starts -->
 	<div id="social-icons">
 		<ul>
-	        <li><a href="index.html"><img src="images/social/icon-facebook.png" alt="" border="0"></a></li>
+	        <li><a href="index.php"><img src="images/social/icon-facebook.png" alt="" border="0"></a></li>
 	        <li><a href="#"><img src="images/social/icon-twitter.png" alt="" border="0"></a></li>
 	        <li><a href="#"><img src="images/social/icon-fliker.png" alt="" border="0"></a></li>
 	        <li><a href="#"><img src="images/social/icon-tumblr.png" alt="" border="0"></a></li>

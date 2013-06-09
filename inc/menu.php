@@ -4,7 +4,7 @@
 		<li>
 			<a href="perlis.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Perlis</a>
 		</li>
-		<li class="active">
+		<li>
 			<a href="kedah.php" class="contentLink" rel="external"><span><img src="images/icon-map.png" alt="" border="0"/></span>Kedah</a>
 		</li>
 		<li>

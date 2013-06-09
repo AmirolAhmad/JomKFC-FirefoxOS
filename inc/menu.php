@@ -58,7 +58,7 @@
 			<div class="icons f_left" >
 				<a href="#" class="showMenu"><img src="images/icon-menu.png" alt="Menu" border="0"/></a>
 			</div>
-			<span><a href="index.html" rel="external"><img src="img/logo.png" alt="Logo" width="151" height="37"/></a></span>
+			<span><a href="index.php" rel="external"><img src="img/logo.png" alt="Logo" width="151" height="37"/></a></span>
 			<div class="icons f_right">
 				<a href="contact.php" rel="external"><img src="images/icon-phone.png" alt="Phone" border="0"/></a>
 			</div>

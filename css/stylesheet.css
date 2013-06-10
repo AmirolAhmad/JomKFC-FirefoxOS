@@ -6,26 +6,33 @@ html {
 	font-size:12px;
 	font-family:Tahoma,Geneva,sans-serif;
 }
+
 body {
 	line-height:20px;
 	color: #ccc;
-	}
+}
+
 a:link {
 	text-decoration:underline;
 }
+
 a:visited {
 	text-decoration:underline;
 }
+
 a:hover {
 	text-decoration:none;
 }
+
 a:active {
 	text-decoration:underline;
 }
+
 #logo {
 	margin-left:auto;
 	margin-right:auto;
 }
+
 #header {
 	text-align:center;
 	margin-top:0;
@@ -44,15 +51,18 @@ a:active {
 	background-image:-o-linear-gradient(#323437, #141517);
 	background-image:linear-gradient(#323437, #141517)
 }
+
 #header .icons {
 	margin-right:8px;
 	margin-left:8px;
 }
+
 #header .icons:hover {
 	opacity:0.7;
 	-ms-filter:"alpha(opacity=70)";
 	filter:alpha(opacity=70);
 }
+
 #header .strip {
 	max-width:768px;
 	text-align:center;
@@ -61,42 +71,53 @@ a:active {
 	padding-top:8px;
 	padding-bottom:4px;
 }
+
 .flexslider {
 	max-width:768px!important;
 	margin-left:auto!important;
 	margin-right:auto!important;
 }
+
 .banner-shadow{
 	max-width:768px!important;
 	margin-left:auto!important;
 	margin-right:auto!important;
 }
+
 #welcome {
 	margin-bottom:16px;
 	margin-top:16px;
 }
+
 #i-text-blocks {
 }
+
 #i-text-blocks h2 {
 	margin-top:5px;
 	padding-top:5px;
 }
+
 #i-text-blocks .col-1 {
 	max-width:351px;
 }
+
 #i-text-blocks .col-2 {
 	max-width:351px;
 }
+
 #i-text-blocks .col-1:hover {
 	background-image:none!important;
 }
+
 #i-text-blocks .col-2:hover {
 	background-image:none!important;
 }
+
 #i-text-blocks img {
 	padding-right:10px;
 	padding-bottom:12px;
 }
+
 #i-big-text {
 	padding-top:12px;
 	padding-bottom:12px;
@@ -113,6 +134,7 @@ a:active {
 	text-align:center;
 	line-height:18px;
 }
+
 h1,h2,h3,h4,h5,h6 {
 	font-family:'Yanone Kaffeesatz', Tahoma, Geneva, sans-serif;
 	color:#FFFFFF;
@@ -122,24 +144,31 @@ h1,h2,h3,h4,h5,h6 {
 	margin-top: 10px;
 	padding-top: 10px;
 }
+
 h1 {
 	font-size:34px;
 }
+
 h2 {
 	font-size:32px;
 }
+
 h3 {
 	font-size:28px;
 }
+
 h4 {
 	font-size:26px;
 }
+
 h5 {
 	font-size:24px;
 }
+
 h6 {
 	font-size:20px;
 }
+
 #footer {
 	margin-right:auto;
 	margin-left:auto;
@@ -154,6 +183,7 @@ h6 {
 	background-image:url(../images/footer-bg.png);
 	background-repeat:repeat;
 }
+
 #footer .strip {
 	max-width:768px;
 	text-align:left;
@@ -163,20 +193,25 @@ h6 {
 	padding-bottom:6px;
 	padding-left:20px;
 }
+
 #footer .strip img {
 	margin-right:10px;
 }
+
 #footer a {
 	color:#FFF;
 }
+
 #footer a:link {
 	color:#FFF;
 	font-weight:normal;
 }
+
 #footer a:hover {
 	color:#FFF;
 	text-decoration:none;
 }
+
 #footer a:active {
 	color: #FFF;
 }

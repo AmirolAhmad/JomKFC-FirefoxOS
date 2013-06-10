@@ -185,8 +185,7 @@ h6 {
 .contentLink {
 	background-image: url('../images/icon-map.png');
 	background-repeat: no-repeat;
-	padding-left: 30px;  
-	display: block; 
+	background-position: left-center;
 }
 
 

@@ -80,8 +80,8 @@ body {
 	text-shadow:0 1px 1px #000;
 	padding-top: 12px;
 	padding-right: 0;
-	padding-left: 10px;
-	padding-bottom: 30px;
+	padding-left: 30px;
+	padding-bottom: 12px;
 }
 #menu ul li a:hover, #menu ul li a:active {
 	background-color:#33373a;

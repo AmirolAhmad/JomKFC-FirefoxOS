@@ -12,7 +12,7 @@ To add your own icon, I recommend using the [Firefox OS app icons style guide](h
 
 ## Preview
 
-To test/install this app, download the code and run it on a web server, or navigate to [Firefix OS KFC MY locator](http://amirolahmad.github.com/Firefix-OS-KFC-MY-locator/) in Firefox on a device or in the Firefox OS Simulator. 
+To test/install this app, download the code and run it on a web server, or navigate to [Firefox OS KFC MY locator](http://amirolahmad.github.com/Firefox-OS-KFC-MY-locator/) in Firefox on a device or in the Firefox OS Simulator. 
 
 Alternatively, install it in the Firefox OS Simulator Dashboard by providing either of these URLs:
 

@@ -180,6 +180,16 @@ h6 {
 #footer a:active {
 	color: #FFF;
 }
+
+/* Add icon map next link */ 
+.contentLink {
+	background-image: url('../images/icon-map.png');
+	background-repeat: no-repeat;
+	padding-left: 30px;  
+	display: block; 
+}
+
+
 /*-------------------------------------------- Aboutus ------------------------------------------------*/
 #aboutus {
 }

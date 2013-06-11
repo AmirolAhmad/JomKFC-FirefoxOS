@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"name": "KFC Malaysia - Locator",
+	"name": "JomKFC",
 	"description": "Locate the nearest KFC around you.",
 	"launch_path": "/Firefox-OS-KFC-MY-locator/index.html",
 	"icons": {

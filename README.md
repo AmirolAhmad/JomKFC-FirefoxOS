@@ -1,12 +1,12 @@
-Finalize Repository for Firefix OS KFC MY locator
+Finalize Repository for JomKFC FirefoxOS application
 =================================================
 
-Please look in the gh-pages branch for all code
+Please look in the [gh-pages branch](https://github.com/mozillamalaysia/JomKFC-FirefoxOS/tree/gh-pages) for all code
 
 Step to make pull-request
 =========================
 
-Forked this repo. After making the changes, make a Pull Request to gh-pages. I will checked the code and if the code if valid, will merge it to the master repo.
+Forked this repo. After making the changes, make a Pull Request to gh-pages branch. We will checked the code and if the code if valid, will merge it to the branch repo.
 
 Note
 ====
